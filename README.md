@@ -22,4 +22,7 @@
   - [wprowadzenie-do-transformaty-fouriera/](https://www.wykop.pl/link/4133255/wprowadzenie-do-transformaty-fouriera/)
 
 ## aux
-  -[Parser Generator for JavaScript](https://pegjs.org/)
+  - [Parser Generator for JavaScript](https://pegjs.org/)
+  
+##
+  - [http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/](http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/)
