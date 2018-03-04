@@ -11,9 +11,16 @@
   - [http://2ality.com/](http://2ality.com/)
 
 ## web
+  - [https://hackernoon.com/](https://hackernoon.com/)
+  - [css-tricks.com/](https://css-tricks.com/)  
+
+### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
   - [wykop webstuff/](https://www.wykop.pl/tag/webstuff/)
   - [modern-javascript-explained-for-dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+  - [comparison-javascript-linting-tools/](https://www.sitepoint.com/comparison-javascript-linting-tools/)
+  - [redesigning-redux-b2baee8b8a38](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
+  - [o-api-an-alternative-to-rest-apis](https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c)
 
 ## linux
   - [Linux Journey: Learn the ways of Linux-fu, for free. https://linuxjourney.com/](https://linuxjourney.com/)
