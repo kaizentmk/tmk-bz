@@ -26,6 +26,9 @@
   - [Linux Journey: Learn the ways of Linux-fu, for free. https://linuxjourney.com/](https://linuxjourney.com/)
   - [https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/]
   
+## docker
+  - [docker](https://sii.pl/blog/tag/docker/)
+  
 ## courses
   - [MIT https://ocw.mit.edu/courses/](https://ocw.mit.edu/courses/)
   - [wprowadzenie-do-transformaty-fouriera/](https://www.wykop.pl/link/4133255/wprowadzenie-do-transformaty-fouriera/)
