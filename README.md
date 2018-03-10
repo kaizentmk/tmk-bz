@@ -30,6 +30,7 @@
   - [docker](https://sii.pl/blog/tag/docker/)
   
 ## courses
+  - [courseroot](https://courseroot.com/)
   - [MIT https://ocw.mit.edu/courses/](https://ocw.mit.edu/courses/)
   - [wprowadzenie-do-transformaty-fouriera/](https://www.wykop.pl/link/4133255/wprowadzenie-do-transformaty-fouriera/)
   - [machine-learning](https://developers.google.com/machine-learning/crash-course/)
