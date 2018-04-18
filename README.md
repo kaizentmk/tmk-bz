@@ -39,10 +39,13 @@
   - [Parser Generator for JavaScript](https://pegjs.org/)
   - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
   - [Programming Notes for Professionals books](http://www.wykop.pl/ramka/4118917/duzo-darmowej-wiedzy-ze-stackoverflow/)
-  
+
   - [unknownews wykop](https://www.wykop.pl/tag/unknownews/)
   - [wykop webstuff/](https://www.wykop.pl/tag/webstuff/)
 
+## e-book readers
+ - [onyx-boox-max-2](http://czytio.pl/czytniki-ebookow/349/onyx-boox-max-2)
+ - [pocketbook-inkpad-3](http://czytio.pl/czytniki-ebookow/348/pocketbook-inkpad-3)
   
 ##
   - [http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/](http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/)
