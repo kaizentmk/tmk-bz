@@ -10,6 +10,7 @@
 ### blogs
   - [http://2ality.com/](http://2ality.com/)
   - [http://www.yegor256.com/](http://www.yegor256.com/)
+  - [Void Canvas, JS](http://voidcanvas.com/?s=)
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
