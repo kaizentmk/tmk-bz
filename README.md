@@ -12,7 +12,8 @@
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
-  - [css-tricks.com/](https://css-tricks.com/)  
+  - [css-tricks.com/](https://css-tricks.com/)
+  - [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
 ### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
