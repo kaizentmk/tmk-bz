@@ -56,7 +56,7 @@
   - [wykop webstuff/](https://www.wykop.pl/tag/webstuff/)
 
 ## e-book readers
- - http://czytio.pl/czytniki-ebookow/350/onyx-boox-note](http://czytio.pl/czytniki-ebookow/350/onyx-boox-note)
+ - [http://czytio.pl/czytniki-ebookow/350/onyx-boox-note](http://czytio.pl/czytniki-ebookow/350/onyx-boox-note)
   
 ##
   - [http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/](http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/)
