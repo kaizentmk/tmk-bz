@@ -35,7 +35,7 @@
 
 ## linux
   - [Linux Journey: Learn the ways of Linux-fu, for free. https://linuxjourney.com/](https://linuxjourney.com/)
-  - [https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/]
+  - [https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
   
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
@@ -51,7 +51,6 @@
   - [Parser Generator for JavaScript](https://pegjs.org/)
   - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
   - [Programming Notes for Professionals books](http://www.wykop.pl/ramka/4118917/duzo-darmowej-wiedzy-ze-stackoverflow/)
-
   - [unknownews wykop](https://www.wykop.pl/tag/unknownews/)
   - [wykop webstuff/](https://www.wykop.pl/tag/webstuff/)
 
