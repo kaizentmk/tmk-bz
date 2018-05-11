@@ -10,6 +10,10 @@
 ## node.js
  - [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/)
 
+## java
+### spring
+  - [http://www.baeldung.com/](http://www.baeldung.com/)
+
 ## blogs
   - [http://2ality.com/](http://2ality.com/)
   - [http://www.yegor256.com/](http://www.yegor256.com/)
