@@ -56,9 +56,7 @@
   - [wykop webstuff/](https://www.wykop.pl/tag/webstuff/)
 
 ## e-book readers
- - [onyx-boox-max-2](http://czytio.pl/czytniki-ebookow/349/onyx-boox-max-2)
- - [onyx-boox-n96ml-carta](http://czytio.pl/czytniki-ebookow/324/onyx-boox-n96ml-carta)
- - [pocketbook-inkpad-3](http://czytio.pl/czytniki-ebookow/348/pocketbook-inkpad-3)
+ - http://czytio.pl/czytniki-ebookow/350/onyx-boox-note](http://czytio.pl/czytniki-ebookow/350/onyx-boox-note)
   
 ##
   - [http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/](http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/)
