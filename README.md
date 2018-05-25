@@ -17,9 +17,10 @@
 ## blogs
   - [http://2ality.com/](http://2ality.com/)
   - [http://www.yegor256.com/](http://www.yegor256.com/)
-  - [Void Canvas, JS](http://voidcanvas.com/?s=)
+  - [Void Canvas, JS](http://voidcanvas.com/)
   - [https://medium.freecodecamp.org/](https://medium.freecodecamp.org/)
   - [https://javarevisited.blogspot.de/](https://javarevisited.blogspot.de/)
+  - [https://blog.jooq.org/](https://blog.jooq.org/, SQL)
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
