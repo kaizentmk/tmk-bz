@@ -20,7 +20,7 @@
   - [Void Canvas, JS](http://voidcanvas.com/)
   - [https://medium.freecodecamp.org/](https://medium.freecodecamp.org/)
   - [https://javarevisited.blogspot.de/](https://javarevisited.blogspot.de/)
-  - [https://blog.jooq.org/](https://blog.jooq.org/, SQL)
+  - [https://blog.jooq.org/](https://blog.jooq.org/)
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
