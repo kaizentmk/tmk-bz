@@ -54,9 +54,7 @@
   - [Programming Notes for Professionals books](http://www.wykop.pl/ramka/4118917/duzo-darmowej-wiedzy-ze-stackoverflow/)
   - [unknownews wykop](https://www.wykop.pl/tag/unknownews/)
   - [wykop webstuff/](https://www.wykop.pl/tag/webstuff/)
-
-## e-book readers
- - [http://czytio.pl/czytniki-ebookow/350/onyx-boox-note](http://czytio.pl/czytniki-ebookow/350/onyx-boox-note)
+  - [https://github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
   
 ##
   - [http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/](http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/)
