@@ -6,6 +6,7 @@
   - [modern-frontend-hacking-cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
   - [javascript-monads-made-simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
   - [koa generators](http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/)
+  - [http://exploringjs.com/es6/](http://exploringjs.com/es6/)
   
 ## node.js
  - [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/)
