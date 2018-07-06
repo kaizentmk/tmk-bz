@@ -42,12 +42,17 @@
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
   
+## haskell
+  - [http://learnyouahaskell.com/chapters](http://learnyouahaskell.com/chapters)
+  - [https://www.haskell.org/documentation](https://www.haskell.org/documentation)
+  
 ## courses
   - [courseroot](https://courseroot.com/)
   - [MIT https://ocw.mit.edu/courses/](https://ocw.mit.edu/courses/)
   - [wprowadzenie-do-transformaty-fouriera/](https://www.wykop.pl/link/4133255/wprowadzenie-do-transformaty-fouriera/)
   - [machine-learning](https://developers.google.com/machine-learning/crash-course/)
   - [450-free-online-programming-computer-science-courses](https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274)
+  - [https://www.edx.org/](https://www.edx.org/)
 
 ## misc
   - [Parser Generator for JavaScript](https://pegjs.org/)
