@@ -55,6 +55,7 @@
   - [https://www.edx.org/](https://www.edx.org/)
 
 ## misc
+  - [http://devdocs.io/](http://devdocs.io/)
   - [Parser Generator for JavaScript](https://pegjs.org/)
   - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
   - [Programming Notes for Professionals books](http://www.wykop.pl/ramka/4118917/duzo-darmowej-wiedzy-ze-stackoverflow/)
