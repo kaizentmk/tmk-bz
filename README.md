@@ -53,6 +53,7 @@
   - [machine-learning](https://developers.google.com/machine-learning/crash-course/)
   - [450-free-online-programming-computer-science-courses](https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274)
   - [https://www.edx.org/](https://www.edx.org/)
+  - [https://www.chip.pl/2018/08/5-stron-z-darmowymi-kursami-programowania/](https://www.chip.pl/2018/08/5-stron-z-darmowymi-kursami-programowania/)
   
 ## tests
   - [an-overview-of-javascript-testing-in-2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
