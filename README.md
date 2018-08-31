@@ -55,6 +55,7 @@
   - [https://www.edx.org/](https://www.edx.org/)
   - [https://www.chip.pl/2018/08/5-stron-z-darmowymi-kursami-programowania/](https://www.chip.pl/2018/08/5-stron-z-darmowymi-kursami-programowania/)
   - [https://www.ibm.com/developerworks/learn/](https://www.ibm.com/developerworks/learn/)
+  - [https://o7planning.org/](https://o7planning.org/)
   
 ## tests
   - [an-overview-of-javascript-testing-in-2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
