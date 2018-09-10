@@ -41,6 +41,7 @@
   
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
+  - [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
   
 ## haskell
   - [http://learnyouahaskell.com/chapters](http://learnyouahaskell.com/chapters)
