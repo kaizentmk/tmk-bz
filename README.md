@@ -47,7 +47,7 @@
   - [http://learnyouahaskell.com/chapters](http://learnyouahaskell.com/chapters)
   - [https://www.haskell.org/documentation](https://www.haskell.org/documentation)
   
-## courses
+## courses and tutorials
   - [courseroot](https://courseroot.com/)
   - [MIT https://ocw.mit.edu/courses/](https://ocw.mit.edu/courses/)
   - [wprowadzenie-do-transformaty-fouriera/](https://www.wykop.pl/link/4133255/wprowadzenie-do-transformaty-fouriera/)
@@ -57,6 +57,7 @@
   - [https://www.chip.pl/2018/08/5-stron-z-darmowymi-kursami-programowania/](https://www.chip.pl/2018/08/5-stron-z-darmowymi-kursami-programowania/)
   - [https://www.ibm.com/developerworks/learn/](https://www.ibm.com/developerworks/learn/)
   - [https://o7planning.org/](https://o7planning.org/)
+  - [http://tutorials.jenkov.com/](http://tutorials.jenkov.com/)
   
 ## tests
   - [an-overview-of-javascript-testing-in-2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
