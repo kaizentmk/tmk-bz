@@ -16,6 +16,9 @@
 ### spring
   - [http://www.baeldung.com/](http://www.baeldung.com/)
 
+## android
+  - [https://www.sitepoint.com/mastering-complex-lists-with-the-android-recyclerview/](https://www.sitepoint.com/mastering-complex-lists-with-the-android-recyclerview/)
+
 ## blogs
   - [http://2ality.com/](http://2ality.com/)
   - [http://www.yegor256.com/](http://www.yegor256.com/)
