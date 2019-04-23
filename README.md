@@ -8,6 +8,9 @@
   - [koa generators](http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/)
   - [http://exploringjs.com/es6/](http://exploringjs.com/es6/)
   - [http://superherojs.com/](http://superherojs.com/)
+  - [https://github.com/lip3k/33-js-concepts](33 concepts every JavaScript developer should know)
+  - [https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b](google-publishes-a-javascript-style-guide)
+  - [https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf](how-does-javascript-actually-work)
   
 ## node.js
  - [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/)
@@ -26,6 +29,7 @@
   - [https://medium.freecodecamp.org/](https://medium.freecodecamp.org/)
   - [https://javarevisited.blogspot.de/](https://javarevisited.blogspot.de/)
   - [https://blog.jooq.org/, SQL](https://blog.jooq.org/)
+  - [https://www.bezkompilatora.pl/](https://www.bezkompilatora.pl/)
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
@@ -46,6 +50,9 @@
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
   - [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+  
+## elastic search
+  - [https://blog.minimum.se/2019/04/08/elastic-search-introduction.html](elastic-search-introduction)
   
 ## haskell
   - [http://learnyouahaskell.com/chapters](http://learnyouahaskell.com/chapters)
@@ -76,6 +83,13 @@
   - [https://github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
   - [http://uigoodies.com/index.html](http://uigoodies.com/index.html)
   - [https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
+  - [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](MS vm for browser testing)
+  - [https://medium.muz.li/30-great-free-fonts-for-2019-14814a17e91a](30-great-free-fonts-for-2019)
+  - [https://webkul.github.io/coolhue/](Coolest handpicked Gradient Palette)
+  - [https://pl.icons8.com/line-awesome](Line Awesome - replace font awesome)
+  
+## web
+  - [http://blog-en.tilda.cc/articles-website-design-mistakes](website-design-mistakes)
   
 ## editors
   - [https://vscodecandothat.com/](https://vscodecandothat.com/)
