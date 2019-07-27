@@ -92,6 +92,7 @@
   
 ## web
   - [http://blog-en.tilda.cc/articles-website-design-mistakes](website-design-mistakes)
+  - [animating-visibility-with-css-an-example-of-react-hooks](https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/)
   
 ## editors
   - [https://vscodecandothat.com/](https://vscodecandothat.com/)
