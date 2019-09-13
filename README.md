@@ -31,6 +31,7 @@
   - [https://javarevisited.blogspot.de/](https://javarevisited.blogspot.de/)
   - [https://blog.jooq.org/, SQL](https://blog.jooq.org/)
   - [https://www.bezkompilatora.pl/](https://www.bezkompilatora.pl/)
+  - [https://daveceddia.com/archives/](https://daveceddia.com/archives/)
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
