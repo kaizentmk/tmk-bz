@@ -11,6 +11,7 @@
   - [https://github.com/lip3k/33-js-concepts](33 concepts every JavaScript developer should know)
   - [https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b](google-publishes-a-javascript-style-guide)
   - [https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf](how-does-javascript-actually-work)
+  - [https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a](an-overview-of-javascript-testing-in-2019)
   
 ## node.js
  - [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/)
