@@ -32,6 +32,7 @@
   - [https://blog.jooq.org/, SQL](https://blog.jooq.org/)
   - [https://www.bezkompilatora.pl/](https://www.bezkompilatora.pl/)
   - [https://daveceddia.com/archives/](https://daveceddia.com/archives/)
+  - [https://www.valentinog.com/blog](https://www.valentinog.com/blog)
 
 ## web
   - [https://hackernoon.com/](https://hackernoon.com/)
