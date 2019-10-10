@@ -40,6 +40,8 @@
   - [https://hackernoon.com/](https://hackernoon.com/)
   - [css-tricks.com/](https://css-tricks.com/)
   - [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+  - [Grid by Example](https://gridbyexample.com/examples/)
+  - [CSS_layout/Flexbox](https://developer.mozilla.org/pl/docs/Learn/CSS/CSS_layout/Flexbox)
 
 ### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
@@ -93,7 +95,6 @@
   - [https://medium.muz.li/30-great-free-fonts-for-2019-14814a17e91a](30-great-free-fonts-for-2019)
   - [https://webkul.github.io/coolhue/](Coolest handpicked Gradient Palette)
   - [https://pl.icons8.com/line-awesome](Line Awesome - replace font awesome)
-  - [Grid by Example](https://gridbyexample.com/examples/)
   
 ## web
   - [http://blog-en.tilda.cc/articles-website-design-mistakes](website-design-mistakes)
