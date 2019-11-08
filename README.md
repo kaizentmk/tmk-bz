@@ -42,6 +42,9 @@
   - [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
   - [Grid by Example](https://gridbyexample.com/examples/)
   - [CSS_layout/Flexbox](https://developer.mozilla.org/pl/docs/Learn/CSS/CSS_layout/Flexbox)
+  - [Make some waves!](https://getwaves.io/)
+  - [Fantastic and Unique CSS Gradients
+](https://www.gradientmagic.com/)
 
 ### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
