@@ -57,6 +57,7 @@
   - [Linux Journey: Learn the ways of Linux-fu, for free. https://linuxjourney.com/](https://linuxjourney.com/)
   - [https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
   - [https://www.bezkompilatora.pl/](https://www.bezkompilatora.pl/)
+  - [Manjaro tutorial: BIOS, UEFI, MBR, GPT, GRUB, SED, LUKS](https://www.happycoders.eu/devops/manjaro-tutorial-linux-bios-uefi-mbr-gpt-grub-sed-luks/)
   
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
