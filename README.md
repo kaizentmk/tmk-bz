@@ -47,6 +47,7 @@
   - [3D card css effect](https://codepen.io/robin-dela/pen/jVddbq)
   - [74 CSS cards](https://freefrontend.com/css-cards/)
   - [freefrontend.com - html, css, js examples](https://freefrontend.com/)
+  - [cool borders](https://codepen.io/KrzysiekF/pen/mddoQRw)
 
 ### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
