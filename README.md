@@ -43,8 +43,10 @@
   - [Grid by Example](https://gridbyexample.com/examples/)
   - [CSS_layout/Flexbox](https://developer.mozilla.org/pl/docs/Learn/CSS/CSS_layout/Flexbox)
   - [Make some waves!](https://getwaves.io/)
-  - [Fantastic and Unique CSS Gradients
-](https://www.gradientmagic.com/)
+  - [Fantastic and Unique CSS Gradients](https://www.gradientmagic.com/)
+  - [3D card css effect](https://codepen.io/robin-dela/pen/jVddbq)
+  - [74 CSS cards](https://freefrontend.com/css-cards/)
+  - [freefrontend.com - html, css, js examples](https://freefrontend.com/)
 
 ### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
