@@ -10,9 +10,10 @@
   - [http://superherojs.com/](http://superherojs.com/)
   - [https://github.com/lip3k/33-js-concepts](33 concepts every JavaScript developer should know)
   - [https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b](google-publishes-a-javascript-style-guide)
-  - [https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf](how-does-javascript-actually-work)
-  - [https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a](an-overview-of-javascript-testing-in-2019)
+  - [how-does-javascript-actually-work](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+  - [an-overview-of-javascript-testing-in-2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
   - [https://github.com/valentinogagliardi/Little-JavaScript-Book/tree/v1.0.0/manuscript](Little-JavaScript-Book)
+  - [JavaScript Algorytmy i Struktury Danych](https://github.com/trekhleb/javascript-algorithms/blob/master/README.pl-PL.md)
   
 ## node.js
  - [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/)
@@ -48,6 +49,11 @@
   - [74 CSS cards](https://freefrontend.com/css-cards/)
   - [freefrontend.com - html, css, js examples](https://freefrontend.com/)
   - [cool borders](https://codepen.io/KrzysiekF/pen/mddoQRw)
+  - [css animation generator](https://keyframes.app/animate/)
+  - [A small JavaScript library to create and animate annotations on a web page](https://roughnotation.com/)
+  - [http://blog-en.tilda.cc/articles-website-design-mistakes](website-design-mistakes)
+  - [animating-visibility-with-css-an-example-of-react-hooks](https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/)
+  
 
 ### articles
   - [graphql](https://medium.com/javascript-scene/graphql-at-the-rest-aurant-f4091054e82a)
@@ -103,10 +109,7 @@
   - [https://medium.muz.li/30-great-free-fonts-for-2019-14814a17e91a](30-great-free-fonts-for-2019)
   - [https://webkul.github.io/coolhue/](Coolest handpicked Gradient Palette)
   - [https://pl.icons8.com/line-awesome](Line Awesome - replace font awesome)
-  
-## web
-  - [http://blog-en.tilda.cc/articles-website-design-mistakes](website-design-mistakes)
-  - [animating-visibility-with-css-an-example-of-react-hooks](https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/)
+  - [zettelkasten - making notes](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
   
 ## editors
   - [https://vscodecandothat.com/](https://vscodecandothat.com/)
