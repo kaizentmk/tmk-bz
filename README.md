@@ -38,6 +38,7 @@
   - [https://www.valentinog.com/blog](https://www.valentinog.com/blog)
 
 ## web
+  - [SVGs for the Web](https://www.neboagency.com/labs/svgs-for-the-web/)
   - [https://hackernoon.com/](https://hackernoon.com/)
   - [css-tricks.com/](https://css-tricks.com/)
   - [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
