@@ -38,6 +38,7 @@
   - [https://www.valentinog.com/blog](https://www.valentinog.com/blog)
 
 ## web
+  - [Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn.](https://maxwellito.github.io/vivus/)
   - [SVGs for the Web](https://www.neboagency.com/labs/svgs-for-the-web/)
   - [https://hackernoon.com/](https://hackernoon.com/)
   - [css-tricks.com/](https://css-tricks.com/)
