@@ -2,6 +2,10 @@
 
 [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 
+## microservices
+  - [Best Practices for Building a Microservice Architecture](https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md)
+  - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
+
 ## js
   - [modern-frontend-hacking-cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
   - [javascript-monads-made-simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
@@ -55,6 +59,7 @@
   - [A small JavaScript library to create and animate annotations on a web page](https://roughnotation.com/)
   - [http://blog-en.tilda.cc/articles-website-design-mistakes](website-design-mistakes)
   - [animating-visibility-with-css-an-example-of-react-hooks](https://www.freecodecamp.org/news/animating-visibility-with-css-an-example-of-react-hooks/)
+  - [Functional CSS - The Good, The Bad, and Some Protips for React.js Users](https://github.com/chibicode/react-functional-css-protips#sunglasses-act-ii-some-downsides-of-using-functional-css-sunglasses)
   
 
 ### articles
@@ -73,6 +78,8 @@
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
   - [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#best-practices)
+  - [Docker-Clean](https://github.com/ZZROTDesign/docker-clean)
   
 ## elastic search
   - [https://blog.minimum.se/2019/04/08/elastic-search-introduction.html](elastic-search-introduction)
