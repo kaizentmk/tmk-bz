@@ -5,6 +5,7 @@
 ## microservices
   - [Best Practices for Building a Microservice Architecture](https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md)
   - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
+  - [the twelve-factor app](https://12factor.net/)
 
 ## js
   - [modern-frontend-hacking-cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
