@@ -127,5 +127,8 @@
 ## tools
  - [https://github.com/odeke-em/drive](drive)
 
+## automotive
+ - [can intro](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377)
+
 ##
   - [http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/](http://www.czajna.pl/poradnik/rodzaje-przesylek-z-chin/)
