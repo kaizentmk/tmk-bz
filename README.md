@@ -8,6 +8,7 @@
   - [the twelve-factor app](https://12factor.net/)
 
 ## js
+  - [JavaScript Info - The Modern JavaScript Tutorial](https://javascript.info/)
   - [modern-frontend-hacking-cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
   - [javascript-monads-made-simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
   - [koa generators](http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/)
@@ -43,6 +44,9 @@
   - [https://www.valentinog.com/blog](https://www.valentinog.com/blog)
 
 ## web
+  - [web.dev - latest modern technologies](https://web.dev/)
+  - [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
+  - [33 Stupidly Simple Websites, Apps, Resources, and Tools for Developers](https://javascript.plainenglish.io/33-stupidly-simple-websites-apps-resources-and-tools-for-developers-b2d9b8a054b)
   - [Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn.](https://maxwellito.github.io/vivus/)
   - [SVGs for the Web](https://www.neboagency.com/labs/svgs-for-the-web/)
   - [https://hackernoon.com/](https://hackernoon.com/)
