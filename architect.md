@@ -1,4 +1,4 @@
-# Arhitect
+# Architect
 
 ## microservices
 
