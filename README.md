@@ -7,6 +7,10 @@
   - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
   - [the twelve-factor app](https://12factor.net/)
 
+## OAUTH
+  - [The Modern Guide to OAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth)
+  - [OAuth 2.0 – jak działa / jak testować / problemy bezpieczeństwa](https://sekurak.pl/oauth-2-0-jak-dziala-jak-testowac-problemy-bezpieczenstwa/)
+
 ## js
   - [JavaScript Info - The Modern JavaScript Tutorial](https://javascript.info/)
   - [modern-frontend-hacking-cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
@@ -127,9 +131,12 @@
   
 ## editors
   - [https://vscodecandothat.com/](https://vscodecandothat.com/)
+  - [codium](https://github.com/VSCodium/vscodium/releases)
 
 ## tools
- - [https://github.com/odeke-em/drive](drive)
+  - [drive](https://github.com/odeke-em/drive)
+  - [drawio](https://github.com/jgraph/drawio-desktop/releases)
+  - [Meld  Visual diff and merge tool](https://meldmerge.org/)
 
 ## automotive
  - [can intro](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377)

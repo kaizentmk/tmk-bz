@@ -21,7 +21,7 @@ Application architecture patterns
 
 - Monolithic architecture
 - Microservice architecture
-        
+
 Decomposition
 
 - Decompose by business capability
