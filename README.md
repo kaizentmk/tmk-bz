@@ -83,7 +83,8 @@
   - [https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
   - [https://www.bezkompilatora.pl/](https://www.bezkompilatora.pl/)
   - [Manjaro tutorial: BIOS, UEFI, MBR, GPT, GRUB, SED, LUKS](https://www.happycoders.eu/devops/manjaro-tutorial-linux-bios-uefi-mbr-gpt-grub-sed-luks/)
-  
+  - [7 Best Linux Photo Management Software](https://itsfoss.com/linux-photo-management-software/)
+
 ## docker
   - [docker](https://sii.pl/blog/tag/docker/)
   - [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
